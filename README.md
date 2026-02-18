@@ -13,34 +13,6 @@
   
 <b>![𝐒ʜᴏɴᴀ 𝐁ᴏᴛs](https://t.me/shona_bots")</b>
 
-### 𝗩ɪsɪᴛᴏʀs 🍹
-
-<!--
-**harshkingxmdb/SHONABOTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/TEAMPURVI/count.svg" />
-</p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=TEAMPURVI&theme=onedark&hide_border=false)<br/>
-
-<p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=TEAMPURVI&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
-</p>
-
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TEAMPURVI&&show_icons=true&theme=midnight-purple" alt="TEAMPURVI"/></p>        
- 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEAMPURVI&layout=compact&theme=tokyonight" align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <details>
 <summary><b>𝗦𝗨𝗣𝗣𝗢𝗥𝗧</b></b></summary>
 <a href="https://t.me/PURVI_SUPPORT"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
